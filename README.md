@@ -1,4 +1,6 @@
 # COMP3002 - 软件工程
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
@@ -7,17 +9,25 @@
 ## 授课教师
 
 - 廖清
+  <!-- TOML-ITEM: id="review-廖清-1" -->
   - 经验丰富，口齿伶俐，善良可爱。会在个人网站上发布 PPT，任务安排等。PPT 精炼，但是条理性一般。作为一门偏实操的课，听课的意义不是非常大。
 - 陈芳林
+  <!-- TOML-ITEM: id="review-陈芳林-1" -->
   - 较为有经验的老师。
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 “白盒测试”要考非常多的分。
 会问一些概念性的东西。
 总体上比较简单，但是不太容易高分。
 
 ## 关于实验
+<!-- TOML-SECTION: title="关于实验" -->
+
+<!-- TOML-ITEM: id="item-关于实验-1" -->
 
 会有一个课程项目，需要小组合作，既有编码也有文档的需求。注意选好队友，小组合理分工，记得不要拖延！
 
