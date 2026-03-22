@@ -3,6 +3,7 @@ course_code = "COMP3002"
 repo_type = "normal"
 
 [lecturers]
+
 [[lecturers.items]]
 name = "廖清"
 
