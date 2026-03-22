@@ -2,10 +2,11 @@ course_name = "软件工程"
 course_code = "COMP3002"
 repo_type = "normal"
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "廖清"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "老师经验丰富，讲课非常好。并且老师也很善良，很乐意和你交流关于软件的知识。"
 
 [[sections]]
