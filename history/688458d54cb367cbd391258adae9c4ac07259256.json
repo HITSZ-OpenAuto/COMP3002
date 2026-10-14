@@ -1,0 +1,197 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814843,
+    "hash": "3fb707b2def491ee5edb85acdb2dab9e66f48174"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754204002,
+    "hash": "b4a59277eeb9d86b17807ebd3f68f6ef2d802df9"
+  },
+  "README.md": {
+    "size": 977,
+    "time": 1791961562,
+    "hash": "688458d54cb367cbd391258adae9c4ac07259256"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754204002,
+    "hash": "b4a59277eeb9d86b17807ebd3f68f6ef2d802df9"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754204002,
+    "hash": "b4a59277eeb9d86b17807ebd3f68f6ef2d802df9"
+  },
+  "exams/2018级软件工程期末试题_WuuTang.pdf": {
+    "size": 2782169,
+    "time": 1755966238,
+    "hash": "08367692ac27e1910cb85aa771e5dfdd97901f3b"
+  },
+  "exams/README.md": {
+    "size": 272,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754204002,
+    "hash": "b4a59277eeb9d86b17807ebd3f68f6ef2d802df9"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754204002,
+    "hash": "b4a59277eeb9d86b17807ebd3f68f6ef2d802df9"
+  },
+  "notes/2021_fcw/pdf/1 软件工程导论.pdf": {
+    "size": 356587,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/2.1 软件项目开发过程.pdf": {
+    "size": 503531,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/2.2 软件项目开发管理.pdf": {
+    "size": 1045095,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/3.1 软件需求及需求工程.pdf": {
+    "size": 636386,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/3.2 需求获取与建模.pdf": {
+    "size": 474678,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/3.3 需求规格说明书（SRS）.pdf": {
+    "size": 337160,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/4.1 软件工程开发方法与软件设计.pdf": {
+    "size": 267114,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/4.2 软件体系结构设计 .pdf": {
+    "size": 631420,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/4.3 类、数据建模与设计.pdf": {
+    "size": 222214,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/4.5 物理建模与设计.pdf": {
+    "size": 136713,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/5.1 软件编程.pdf": {
+    "size": 294043,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/5.2 软件测试.pdf": {
+    "size": 975134,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/5.3 白盒测试.pdf": {
+    "size": 292647,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/5.4 黑盒测试.pdf": {
+    "size": 431761,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/5.5 变异测试.pdf": {
+    "size": 511322,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/5.6 性能测试.pdf": {
+    "size": 537615,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/6.1 敏捷开发.pdf": {
+    "size": 1391857,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/6.2 软件实施、维护与演化.pdf": {
+    "size": 371482,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_fcw/pdf/重点知识点.pdf": {
+    "size": 213692,
+    "time": 1755966371,
+    "hash": "686d51ace8bf6e89e4338b3c39fb30a3c1fa951c"
+  },
+  "notes/2021_fcw/readme.md": {
+    "size": 1933,
+    "time": 1755966395,
+    "hash": "a834b6064c5b15f56db6c2a119b7b1bb55c8e501"
+  },
+  "notes/2021_xyfJASON/README.md": {
+    "size": 505,
+    "time": 1755966371,
+    "hash": "686d51ace8bf6e89e4338b3c39fb30a3c1fa951c"
+  },
+  "notes/2021_xyfJASON/各种模型概览.png": {
+    "size": 261944,
+    "time": 1755966371,
+    "hash": "686d51ace8bf6e89e4338b3c39fb30a3c1fa951c"
+  },
+  "notes/2021_xyfJASON/第一部分 软件工程概论.pdf": {
+    "size": 1493550,
+    "time": 1755966371,
+    "hash": "686d51ace8bf6e89e4338b3c39fb30a3c1fa951c"
+  },
+  "notes/2021_xyfJASON/第三部分 软件需求工程.pdf": {
+    "size": 1927410,
+    "time": 1755966371,
+    "hash": "686d51ace8bf6e89e4338b3c39fb30a3c1fa951c"
+  },
+  "notes/2021_xyfJASON/第二部分 软件项目开发过程与管理.pdf": {
+    "size": 2387434,
+    "time": 1755966371,
+    "hash": "686d51ace8bf6e89e4338b3c39fb30a3c1fa951c"
+  },
+  "notes/2021_xyfJASON/第五部分 软件编码、测试与质量保障.pdf": {
+    "size": 2219838,
+    "time": 1755966371,
+    "hash": "686d51ace8bf6e89e4338b3c39fb30a3c1fa951c"
+  },
+  "notes/2021_xyfJASON/第六部分 软件的实施、维护与演化.pdf": {
+    "size": 1406591,
+    "time": 1755966371,
+    "hash": "686d51ace8bf6e89e4338b3c39fb30a3c1fa951c"
+  },
+  "notes/2021_xyfJASON/第四部分 软件设计.pdf": {
+    "size": 4285726,
+    "time": 1755966371,
+    "hash": "686d51ace8bf6e89e4338b3c39fb30a3c1fa951c"
+  },
+  "readme.toml": {
+    "size": 915,
+    "time": 1774196418,
+    "hash": "e4a72ab378026ab24a875fd4838854833b91017e"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754204002,
+    "hash": "b4a59277eeb9d86b17807ebd3f68f6ef2d802df9"
+  }
+}
